@@ -2,20 +2,21 @@ class Solution {
 public:
     vector<int> smallerNumbersThanCurrent(vector<int>& nums) {
         int n = nums.size();
-        vector<int>ans(n);
-        int c = 0 ;
-        for(int i = 0; i < n ; i++){
-            for(int j = 0 ; j < n ; j ++ ){
-                if(nums[i] > nums[j]){
-                    c += 1;
-                }
-                else
-                continue ;
+        vector<int> temp = nums;
+        
 
-            }
-            ans[i] = c ;
-            c = 0 ;
+        sort(temp.begin(), temp.end());
+
+        int mapping[101] = {0}; 
+        for (int i = n - 1; i >= 0; i--) {
+            mapping[temp[i]] = i;
         }
-        return ans ;
+        
+        vector<int> ans(n);
+        for (int i = 0; i < n; i++) {
+            ans[i] = mapping[nums[i]];
+        }
+        
+        return ans;
     }
 };
