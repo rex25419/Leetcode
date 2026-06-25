@@ -6,9 +6,11 @@ My leetcode solution
 ## Array
 |  |
 | ------- |
+| [1920-build-array-from-permutation](https://github.com/rex25419/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/rex25419/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
 | ------- |
+| [1920-build-array-from-permutation](https://github.com/rex25419/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/rex25419/Leetcode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
