@@ -6,6 +6,7 @@ My leetcode solution
 ## Array
 |  |
 | ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/rex25419/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rex25419/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/rex25419/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/rex25419/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -45,4 +46,8 @@ My leetcode solution
 |  |
 | ------- |
 | [1773-count-items-matching-a-rule](https://github.com/rex25419/Leetcode/tree/master/1773-count-items-matching-a-rule) |
+## Math
+|  |
+| ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/rex25419/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 <!---LeetCode Topics End-->
