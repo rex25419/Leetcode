@@ -7,6 +7,7 @@ My leetcode solution
 |  |
 | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rex25419/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/rex25419/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rex25419/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/rex25419/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/rex25419/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -50,4 +51,5 @@ My leetcode solution
 |  |
 | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rex25419/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/rex25419/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 <!---LeetCode Topics End-->
