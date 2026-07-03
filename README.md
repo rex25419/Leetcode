@@ -6,6 +6,7 @@ My leetcode solution
 ## Array
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/rex25419/Leetcode/tree/master/0832-flipping-an-image) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rex25419/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/rex25419/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rex25419/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -21,12 +22,14 @@ My leetcode solution
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/rex25419/Leetcode/tree/master/0832-flipping-an-image) |
 | [1389-create-target-array-in-the-given-order](https://github.com/rex25419/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/rex25419/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/rex25419/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/rex25419/Leetcode/tree/master/0832-flipping-an-image) |
 | [1572-matrix-diagonal-sum](https://github.com/rex25419/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/rex25419/Leetcode/tree/master/1672-richest-customer-wealth) |
 ## Prefix Sum
@@ -54,4 +57,12 @@ My leetcode solution
 | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rex25419/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/rex25419/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+## Two Pointers
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/rex25419/Leetcode/tree/master/0832-flipping-an-image) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/rex25419/Leetcode/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
