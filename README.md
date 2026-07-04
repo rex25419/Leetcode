@@ -6,6 +6,7 @@ My leetcode solution
 ## Array
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/rex25419/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/rex25419/Leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/rex25419/Leetcode/tree/master/0867-transpose-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rex25419/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -23,6 +24,7 @@ My leetcode solution
 ## Simulation
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/rex25419/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/rex25419/Leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/rex25419/Leetcode/tree/master/0867-transpose-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/rex25419/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
@@ -31,6 +33,7 @@ My leetcode solution
 ## Matrix
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/rex25419/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/rex25419/Leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/rex25419/Leetcode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/rex25419/Leetcode/tree/master/1572-matrix-diagonal-sum) |
