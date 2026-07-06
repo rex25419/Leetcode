@@ -6,6 +6,7 @@ My leetcode solution
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rex25419/Leetcode/tree/master/0169-majority-element) |
 | [0566-reshape-the-matrix](https://github.com/rex25419/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/rex25419/Leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/rex25419/Leetcode/tree/master/0867-transpose-matrix) |
@@ -45,14 +46,17 @@ My leetcode solution
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rex25419/Leetcode/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rex25419/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rex25419/Leetcode/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rex25419/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rex25419/Leetcode/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rex25419/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
@@ -71,4 +75,8 @@ My leetcode solution
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/rex25419/Leetcode/tree/master/0832-flipping-an-image) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rex25419/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
