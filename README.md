@@ -7,6 +7,7 @@ My leetcode solution
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rex25419/Leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/rex25419/Leetcode/tree/master/0268-missing-number) |
 | [0566-reshape-the-matrix](https://github.com/rex25419/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/rex25419/Leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/rex25419/Leetcode/tree/master/0867-transpose-matrix) |
@@ -47,11 +48,13 @@ My leetcode solution
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rex25419/Leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/rex25419/Leetcode/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rex25419/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rex25419/Leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/rex25419/Leetcode/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rex25419/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
@@ -65,6 +68,7 @@ My leetcode solution
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/rex25419/Leetcode/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rex25419/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/rex25419/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 ## Two Pointers
@@ -74,9 +78,14 @@ My leetcode solution
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/rex25419/Leetcode/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/rex25419/Leetcode/tree/master/0832-flipping-an-image) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rex25419/Leetcode/tree/master/0169-majority-element) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/rex25419/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
