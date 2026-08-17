@@ -1,17 +1,22 @@
 class Solution {
 public:
     bool hasCycle(ListNode *head) {
-        std::unordered_set<ListNode*> vis;
-        ListNode *curr = head;
-
-        while (curr != nullptr) {
-            if (vis.count(curr)) {
-                return true; 
-            }
-            vis.insert(curr);
-            curr = curr->next;
+        if (!head || !head->next) {
+            return false;
         }
 
-        return false;
+        ListNode *slow = head;
+        ListNode *fast = head;
+
+        while (fast != nullptr && fast->next != nullptr) {
+            slow = slow->next;  
+            fast = fast->next->next;   
+
+            if (slow == fast) {
+                return true;          
+            }
+        }
+
+        return false;     
     }
 };
