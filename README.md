@@ -50,6 +50,7 @@ My leetcode solution
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/rex25419/Leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/rex25419/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/rex25419/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rex25419/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -71,10 +72,12 @@ My leetcode solution
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/rex25419/Leetcode/tree/master/0013-roman-to-integer) |
 | [1773-count-items-matching-a-rule](https://github.com/rex25419/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/rex25419/Leetcode/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/rex25419/Leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rex25419/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rex25419/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
