@@ -54,6 +54,7 @@ My leetcode solution
 | [0013-roman-to-integer](https://github.com/rex25419/Leetcode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/rex25419/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/rex25419/Leetcode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/rex25419/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/rex25419/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/rex25419/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rex25419/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -76,6 +77,7 @@ My leetcode solution
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/rex25419/Leetcode/tree/master/0013-roman-to-integer) |
+| [0205-isomorphic-strings](https://github.com/rex25419/Leetcode/tree/master/0205-isomorphic-strings) |
 | [1773-count-items-matching-a-rule](https://github.com/rex25419/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 ## Math
 |  |
